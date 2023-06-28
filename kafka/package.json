@@ -1,0 +1,11 @@
+{
+  "name": "kafka",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ronald J Costa",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}

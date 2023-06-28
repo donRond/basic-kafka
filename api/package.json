@@ -1,0 +1,12 @@
+{
+  "name": "node-kafka",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Learn kafka",
+  "main": "index.js",
+  "author": "Ronald J Costa",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
